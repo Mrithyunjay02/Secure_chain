@@ -10,3 +10,5 @@
 # Misc
 .DS_Store
 npm-debug.log
+
+serviceAccountKey.json
